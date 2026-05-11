@@ -1,3 +1,6 @@
+# Idea from
+[https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f]
+
 # JavaScript Second Brain — AI-Powered Wiki & Dev Mentor
 
 > A personal knowledge base and learning system built on **Obsidian**, powered by an **AI Mentor** (Claude), designed to take you from Vanilla JavaScript all the way to TypeScript, React, and Node.js.
