@@ -155,17 +155,6 @@ cd Javascript-LLM-Wiki-with-obsidian
 
 Open the project in **Zed Editor**. The `CLAUDE.md` file is automatically picked up as the project's AI instruction set. Start chatting with the AI to ingest new material, get explanations, or request project reviews.
 
-### 4. Configure Git Identity (First-Time Setup)
-
-```sh
-git config --global user.name "Your Name"
-git config --global user.email "your-email@example.com"
-```
-
-For pushing to GitHub, use a **Personal Access Token (PAT)** with `repo` scope:
-- GitHub → Settings → Developer Settings → Personal Access Tokens → Generate new token.
-- Use the token as your password when prompted during `git push`.
-
 ---
 
 ## 📋 Obsidian Recommended Plugins
