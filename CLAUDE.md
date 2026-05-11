@@ -32,8 +32,8 @@ When this command is issued:
 1. **Analyze:** Read the code in the specified file path.
 2. **Refactor:** Give suggestions to improve the code using modern standards (ES6+, Clean Code, Performance).
 3. **Document:** Create a `refactor-note-[date].md` file in the **same project folder**. 
-   - Explain what was changed.
-   - List the techniques/patterns applied.
+   - Explain what should change.
+   - List the techniques/patterns.
    - Show "Before vs After" logic comparisons.
 
 ### 2. `/cheat`
